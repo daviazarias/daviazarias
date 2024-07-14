@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Davi Azarias</h1>
 <h3 align="center">Estudante - Ciência da Computação - Unifal</h3>
 
-- 🌱 I’m currently learning **computer science**
-
 - 📫 How to reach me **daviavalecabral@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
